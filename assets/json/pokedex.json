@@ -59,7 +59,7 @@
                 "Poison"
             ],
             "description": "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
-            "img": "https://github.com/MicheleArgenti/pokedex/blob/main/assets/img/0002.png",
+            "img": "https://raw.githubusercontent.com/MicheleArgenti/pokedex/main/assets/img/0002.png",
             "height": "0.99 m",
             "weight": "13.0 kg",
             "candy": "Bulbasaur Candy",
@@ -111,7 +111,7 @@
                 "Poison"
             ],
             "description": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
-            "img": "https://github.com/MicheleArgenti/pokedex/blob/main/assets/img/0003.png",
+            "img": "https://raw.githubusercontent.com/MicheleArgenti/pokedex/main/assets/img/0003.png",
             "height": "2.01 m",
             "weight": "100.0 kg",
             "candy": "Bulbasaur Candy",
@@ -160,7 +160,7 @@
                 "Fire"
             ],
             "description": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
-            "img": "https://github.com/MicheleArgenti/pokedex/blob/main/assets/img/0004.png",
+            "img": "https://raw.githubusercontent.com/MicheleArgenti/pokedex/main/assets/img/0004.png",
             "height": "0.61 m",
             "weight": "8.5 kg",
             "candy": "Charmander Candy",
@@ -209,7 +209,7 @@
                 "Fire"
             ],
             "description": "",
-            "img": "https://github.com/MicheleArgenti/pokedex/blob/main/assets/img/0005.png",
+            "img": "https://raw.githubusercontent.com/MicheleArgenti/pokedex/main/assets/img/0005.png",
             "height": "1.09 m",
             "weight": "19.0 kg",
             "candy": "Charmander Candy",
@@ -261,7 +261,7 @@
                 "Flying"
             ],
             "description": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
-            "img": "https://github.com/MicheleArgenti/pokedex/blob/main/assets/img/0006.png",
+            "img": "https://raw.githubusercontent.com/MicheleArgenti/pokedex/main/assets/img/0006.png",
             "height": "1.70 m",
             "weight": "90.5 kg",
             "candy": "Charmander Candy",
@@ -305,13 +305,13 @@
         },
         {
             "id": 7,
-            "num": "https://github.com/MicheleArgenti/pokedex/blob/main/assets/img/0007",
+            "num": "0007",
             "name": "Squirtle",
             "types": [
                 "Water"
             ],
             "description": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
-            "img": "0007.png",
+            "img": "https://raw.githubusercontent.com/MicheleArgenti/pokedex/main/assets/img/0007.png",
             "height": "0.51 m",
             "weight": "9.0 kg",
             "candy": "Squirtle Candy",
@@ -351,13 +351,13 @@
         },
         {
             "id": 8,
-            "num": "https://github.com/MicheleArgenti/pokedex/blob/main/assets/img/0008",
+            "num": "0008",
             "name": "Wartortle",
             "types": [
                 "Water"
             ],
             "description": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.",
-            "img": "0008.png",
+            "img": "https://raw.githubusercontent.com/MicheleArgenti/pokedex/main/assets/img/0008.png",
             "height": "0.99 m",
             "weight": "22.5 kg",
             "candy": "Squirtle Candy",
@@ -399,13 +399,13 @@
         },
         {
             "id": 9,
-            "num": "https://github.com/MicheleArgenti/pokedex/blob/main/assets/img/0009",
+            "num": "0009",
             "name": "Blastoise",
             "types": [
                 "Water"
             ],
             "description": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
-            "img": "0009.png",
+            "img": "https://raw.githubusercontent.com/MicheleArgenti/pokedex/main/assets/img/0009.png",
             "height": "1.60 m",
             "weight": "85.5 kg",
             "candy": "Squirtle Candy",
@@ -451,7 +451,7 @@
                 "Bug"
             ],
             "description": "Caterpie has a voracious appetite. It can devour leaves bigger than its body right before your eyes. From its antenna, this Pokémon releases a terrifically strong odor.",
-            "img": "https://github.com/MicheleArgenti/pokedex/blob/main/assets/img/0010.png",
+            "img": "https://raw.githubusercontent.com/MicheleArgenti/pokedex/main/assets/img/0010.png",
             "height": "0.30 m",
             "weight": "2.9 kg",
             "candy": "Caterpie Candy",

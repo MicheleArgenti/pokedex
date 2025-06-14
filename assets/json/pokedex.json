@@ -497,7 +497,7 @@
                 "Bug"
             ],
             "description": "The shell covering this Pokémon's body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
-            "img": "0011.png",
+            "img": "https://raw.githubusercontent.com/MicheleArgenti/pokedex/main/assets/img/0011.png",
             "height": "0.71 m",
             "weight": "9.9 kg",
             "candy": "Caterpie Candy",
@@ -546,7 +546,7 @@
                 "Flying"
             ],
             "description": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
-            "img": "0012.png",
+            "img": "https://raw.githubusercontent.com/MicheleArgenti/pokedex/main/assets/img/0012.png",
             "height": "1.09 m",
             "weight": "32.0 kg",
             "candy": "Caterpie Candy",
@@ -596,7 +596,7 @@
                 "Poison"
             ],
             "description": "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
-            "img": "0013.png",
+            "img": "https://raw.githubusercontent.com/MicheleArgenti/pokedex/main/assets/img/0013.png",
             "height": "0.30 m",
             "weight": "3.2 kg",
             "candy": "Weedle Candy",
@@ -646,7 +646,7 @@
                 "Poison"
             ],
             "description": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
-            "img": "0014.png",
+            "img": "https://raw.githubusercontent.com/MicheleArgenti/pokedex/main/assets/img/0014.png",
             "height": "0.61 m",
             "weight": "10.0 kg",
             "candy": "Weedle Candy",
@@ -698,7 +698,7 @@
                 "Poison"
             ],
             "description": "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm.",
-            "img": "0015.png",
+            "img": "https://raw.githubusercontent.com/MicheleArgenti/pokedex/main/assets/img/0015.png",
             "height": "0.99 m",
             "weight": "29.5 kg",
             "candy": "Weedle Candy",
